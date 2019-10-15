@@ -1,0 +1,45 @@
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.pdb
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.exe
+C:\Users\bitstudent\Downloads\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.pdb
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.pdb
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.exe
+E:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.pdb
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.pdb
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.exe
+D:\2019-09-11 net db download\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.exe
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\bin\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.exe
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\NETDBProgramming-Lesson-02\NETDBProgramming-Lesson-02\MovieLibrary\obj\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.exe
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\bin\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.csproj.CoreCompileInputs.cache
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.exe
+C:\Users\JerryChiu\Source\Repos\chiujienwu\MovieLibrary\MovieLibrary\obj\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\bin\Debug\MovieLibrary.exe.config
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\bin\Debug\MovieLibrary.exe
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\bin\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\obj\Debug\MovieLibrary.csprojAssemblyReference.cache
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\obj\Debug\MovieLibrary.exe
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\obj\Debug\MovieLibrary.pdb
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\bin\Debug\NLog.config
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\bin\Debug\NLog.dll
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\bin\Debug\NLog.xml
+C:\Users\JerryChiu\Documents\Fall 2019\Net Database Programming 156-101-10114-20 Jeff Grissom\Lesson 03\MovieLibrary-repos\MovieLibrary\obj\Debug\MovieLibrary.csproj.CopyComplete
